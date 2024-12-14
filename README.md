@@ -1,1 +1,1 @@
-# School-dmc
+# School-dmc genrator
